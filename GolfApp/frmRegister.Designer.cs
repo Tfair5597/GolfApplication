@@ -127,7 +127,7 @@
             // 
             this.txtPassNotMatched.AutoSize = true;
             this.txtPassNotMatched.ForeColor = System.Drawing.Color.Red;
-            this.txtPassNotMatched.Location = new System.Drawing.Point(55, 113);
+            this.txtPassNotMatched.Location = new System.Drawing.Point(73, 113);
             this.txtPassNotMatched.Name = "txtPassNotMatched";
             this.txtPassNotMatched.Size = new System.Drawing.Size(124, 13);
             this.txtPassNotMatched.TabIndex = 10;
